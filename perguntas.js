@@ -61,7 +61,7 @@ const perguntas = [
     },
     {
         pergunta: 'Quando plantamos árvores em áreas desmatadas, estamos falando de:',
-        opcoes: ['reciclagem', 'reflorestamento', 'Adesmatamento'],
+        opcoes: ['reciclagem', 'reflorestamento', 'desmatamento'],
         correta: 'reflorestamento'
     },
     {
@@ -116,12 +116,12 @@ const perguntas = [
     },
     {
         pergunta: 'Para evitar intoxicação:',
-        opcoes: ['cguardar produtos de limpeza longe das crianças', 'deixar os produtos de limpeza ao alcance das crianças', 'deixar os alimentos perto dos produtos de limpeza'],
+        opcoes: ['guardar produtos de limpeza longe das crianças', 'deixar os produtos de limpeza ao alcance das crianças', 'deixar os alimentos perto dos produtos de limpeza'],
         correta: 'guardar produtos de limpeza longe das crianças'
     },
     {
         pergunta: 'Para evitar queimaduras:',
-        opcoes: ['não soltar fogos de artifício, manter as crianças longe do fogão, velas, fósforos', 'deixar o ferro de passar roupa perto de crianças'],
+        opcoes: ['não soltar fogos de artifício, manter as crianças longe do fogão, velas, fósforos', 'deixar o ferro de passar roupa perto de crianças', 'fazer comida com as crianças correndo perto do fogão'],
         correta: 'não soltar fogos de artifício, manter as crianças longe do fogão, velas, fósforos'
     },
 ];
